@@ -1,4 +1,3 @@
-nairuby.github.io
-=================
+Soon to be the official Nairobi user group (Nairuby) website.
 
-Nairuby User Group official website
+Good things coming. Watch repo to get notifications.
