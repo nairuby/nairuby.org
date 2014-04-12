@@ -1,0 +1,15 @@
+name: Nairuby
+markdown: redcarpet
+pygments: true
+permalink: /:categories/:year/:month/:title/
+relative_permalinks: false
+
+redcarpet:
+  extensions: ['no_intra_emphasis', 'fenced_code_blocks', 'autolink', 'tables']
+
+exclude: ['CNAME',
+          'Gemfile',
+          'Gemfile.lock',
+          '*.sublime-project',
+          'README.md'
+          ]
