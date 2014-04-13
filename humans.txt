@@ -1,4 +1,4 @@
-/* nairuby.github.io */
+/* nairuby.org */
 
 /* SITE */
   Standards: HTML5, CSS3
