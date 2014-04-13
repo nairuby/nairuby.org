@@ -1,8 +1,11 @@
 @font_color: hsl(228, 14%, 36%);
+@background_color: #fff;
 @border_color: hsl(  0,  0%, 80% );
+@link_color: hsl(358, 30%, 40%);
 
 html, body {
   color: @font_color;
+  background-color: @background_color;
   font-size: 14px;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -13,6 +16,10 @@ h3 {font-size: 1.15rem; }
 h4 {font-size: 1.1rem; font-style: italic; }
 h5 {font-size: 1rem;   font-style: italic; }
 h6 {font-size: 1rem;   font-style: italic; }
+
+
+a, a:visited { color: @link_color; }
+a:hover      { text-decoration: underline; }
 
 header {
   margin-bottom: 1.5em !important;
@@ -29,6 +36,15 @@ footer {
   > div {
     border-top: 1px solid @border_color;
     padding-top: 10px;
+  }
+}
+
+ul {
+  li {
+    margin-bottom: 0.5em;
+    ul {
+      margin-bottom: 1.25em;
+    }
   }
 }
 
