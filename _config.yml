@@ -13,3 +13,6 @@ exclude: ['CNAME',
           '*.sublime-project',
           'README.md'
           ]
+
+nairuby:
+  github_url: https://github.com/nairuby
