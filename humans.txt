@@ -1,4 +1,17 @@
 /* nairuby.org */
 
 /* SITE */
+
   Standards: HTML5, CSS3
+
+/* TEAM */
+
+  Bernard Banta
+  Twitter: @Bantab
+  Site: https://github.com/Banta
+  Location: Nairobi, Kenya.
+
+  Job King'ori Maina (King)
+  Twitter: @itsmrwave
+  Site: https://github.com/itsmrwave
+  Location: Cape Town, South Africa. Nairobi, Kenya.
