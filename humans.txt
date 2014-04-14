@@ -2,7 +2,9 @@
 
 /* SITE */
 
+  Hosting: GitHub Pages
   Standards: HTML5, CSS3
+  Tools: Jekyll, Foundation, FontAwesome, jQuery, Modernizr, Less CSS
 
 /* TEAM */
 
