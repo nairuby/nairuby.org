@@ -1,6 +1,7 @@
 ---
 title: Nairobi Ruby Brigade
 layout: default
+sitemap: true
 ---
 
 The **Nairobi Ruby Brigade**, also known as **nairuby** and **nai.rb**, is a

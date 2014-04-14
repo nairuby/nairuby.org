@@ -1,46 +1,28 @@
 ---
 layout: nil
+sitemap: false
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <url>
-    <loc>http://kingori.co/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>http://kingori.co/about/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>http://kingori.co/articles/archive/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>http://kingori.co/minutae/archive/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>http://kingori.co/research/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
   {% for post in site.posts %}
     <url>
-      <loc>http://kingori.co{{ post.url }}</loc>
-      {% if post.lastmod == null %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-      {% else %}
-        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-      {% endif %}
+      <loc>http://nairuby.org{{ post.url }}</loc>
+      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
   {% endfor %}
+
+  {% for page in site.pages %}
+    {% if !page.sitemap %}
+    <url>
+      <loc>http://nairuby.org{{ page.url }}</loc>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+    {% endif %}
+  {% endfor %}
+
 </urlset>
