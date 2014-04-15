@@ -10,12 +10,25 @@ html, body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+// Use these to control header font sizes
 h1 {font-size: 1.3rem; }
 h2 {font-size: 1.25rem; }
 h3 {font-size: 1.15rem; }
 h4 {font-size: 1.1rem; font-style: italic; }
 h5 {font-size: 1rem;   font-style: italic; }
 h6 {font-size: 1rem;   font-style: italic; }
+
+// Use these to control header font styles
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  color: #222;
+  line-height: 1.4;
+  margin-top: 3rem;
+  margin-bottom: .5rem;
+  text-rendering: optimizeLegibility;
+}
 
 
 a, a:visited { color: @link_color; }
@@ -29,6 +42,11 @@ header {
   }
 
   a:hover { text-decoration: none; }
+
+  h1.title {
+    margin-top: .2rem;
+    margin-bottom: .5rem;
+  }
 }
 
 footer {

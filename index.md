@@ -1,6 +1,6 @@
 ---
 title: Nairobi Ruby Brigade
-layout: default
+layout: homepage
 sitemap: true
 permalink: /
 ---
