@@ -6,11 +6,11 @@ permalink: /
 ---
 
 The **Nairobi Ruby Brigade**, also known as **nairuby** and **nai.rb**, is a
-user group for Ruby programmers in [Nairobi, Kenya][1]. The group welcomes all
-programmers interested in the language and its implementations, tools, libraries
-and frameworks, such as [Ruby on Rails][ror]. The group has been meeting since
-August 2011 for presentations, demos and discussions applicable to all skill
-levels, from newbies and experts.
+user group for Ruby programmers in [Nairobi, Kenya][nairobi-kenya-map]. The
+group welcomes all programmers interested in the language and its
+implementations, tools, libraries and frameworks, such as [Ruby on Rails][ror].
+The group has been meeting since August 2011 for presentations, demos and
+discussions applicable to all skill levels, from newbies and experts.
 
 We're not merely a user group, but an open source culture incubator. Whenever we
 can, we come together to share knowledge, projects, code and enthusiasm for Ruby
@@ -18,9 +18,9 @@ can, we come together to share knowledge, projects, code and enthusiasm for Ruby
 
 ## Participate
 
-There are many ways to participate in nairuby:
+There are many ways to participate in Nairuby:
 
-* **[Attend our meetings:][meetings]** we have a number of regular meetings that
+* **Attend our meet-ups:** we have a number of regular meet-ups that
   everyone is welcome to attend:
 
     * **General meetings** for formal presentations, lightning talks and group
@@ -35,7 +35,7 @@ There are many ways to participate in nairuby:
     * **Lunch meetings** to hang out and eat lunch with your fellow Ruby enthusiasts.
     Meetings are usually the last Wednesday of the month.
 
-* **[Give a presentation][presentations]** at one our our monthly meetings and share
+* **Give a presentation** at one our our monthly meetings and share
 something you've learned in the world of Ruby with the group. You can also
 suggest a presentation if there's something you'd like to learn or a speaker you
 want us to recruit.
@@ -45,14 +45,9 @@ meeting announcements and notes, get suggestions of interesting events, and
 participate in technical discussions. You may post information about Ruby
 related jobs and gigs near Nairobi if you follow the job posting guidelines.
 
-* **[Subscribe to our beginner's mailing list:][mail-list-beginner]**
-_"nairuby-beginners"_ to discuss topics of interest to those new to Ruby or
-programming. This is a super friendly list that wants to help you learn and
-share information with others.
-
-* **[Follow us on Twitter][twitter]** for meeting announcements and notes.
-
-* **[Follow our Code of Conduct][coc]**.
+* **Contribute code to Nairuby's official homepage** _(this site)_. The [code is
+publicly available on GitHub][1] and is powered by [Jekyll][2], a fun and easy
+to use static site generator.
 
 * **Tell the world** that you're part of this user group and find others to join.
 
@@ -64,11 +59,9 @@ Ruby and programming. Also join us at the monthly Ruby beginner's meetups,
 details are in the "Participate" section above.
 
 
-[coc]: #
-[mail-list]: #
-[mail-list-beginner]: #
-[meetings]: #
-[presentations]: #
-[twitter]: #
+[mail-list]: https://groups.google.com/forum/#!forum/nairuby
+[nairobi-kenya-map]: http://goo.gl/AMspr8
 [ror]: http://rubyonrails.org/
-[1]: http://goo.gl/AMspr8
+
+[1]: https://github.com/Nairuby/nairuby.github.io
+[2]: http://jekyllrb.com/
