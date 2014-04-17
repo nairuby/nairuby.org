@@ -59,6 +59,16 @@ New to Ruby or programming? Take a look at our list of resources for learning
 Ruby and programming. Also join us at the monthly Ruby beginner's meetups,
 details are in the "Participate" section above.
 
+* [What is Ruby and Ruby on Rails?][5]
+* [Installing Rails on Mac OS X][6]
+* [Installing Rails on Ubuntu][7]
+* [Getting Started with Rails][10] from [the official Rails guides][11]
+* [Ruby on Rails Tutorials][8] by [Michael Hartl][9]
+* [CodeAcademy Ruby Track][15] - _Learn to code Ruby interactively_
+* [Rails for Zombies][12] - _Learn Rails the Zombie way_
+* [Agile Web Development with Rails][13]
+* Other [Ruby on Rails books at Amazon][14]
+
 
 [mail-list]: https://groups.google.com/forum/#!forum/nairuby
 [nairobi-kenya-map]: http://goo.gl/AMspr8
@@ -68,3 +78,14 @@ details are in the "Participate" section above.
 [2]: http://jekyllrb.com/
 [3]: https://github.com/Nairuby/nairuby.github.io/issues?page=1&state=open
 [4]: https://github.com/Nairuby/nairuby.github.io/issues/new
+[5]: http://railsapps.github.io/what-is-ruby-rails.html
+[6]: http://www.createdbypete.com/articles/ruby-on-rails-development-setup-for-mac-osx/
+[7]: http://railsapps.github.io/installrubyonrails-ubuntu.html
+[8]: http://ruby.railstutorial.org/
+[9]: http://michaelhartl.com/
+[10]: http://guides.rubyonrails.org/getting_started.html
+[11]: http://guides.rubyonrails.org/index.html
+[12]: http://railsforzombies.org/
+[13]: http://pragprog.com/titles/rails4/agile-web-development-with-rails
+[14]: http://www.amazon.com/gp/search?ie=UTF8&keywords=ruby%20on%20rails&tag=rubonrai-20&index=books&linkCode=ur2&camp=1789&creative=9325
+[15]: http://www.codecademy.com/tracks/ruby
