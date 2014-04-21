@@ -7,7 +7,7 @@ permalink: /
 
 Welcome to **Nairuby**, a user group for Ruby programmers based in Nairobi [Nairobi, Kenya][nairobi-kenya-map]. We welcome all programmers of all levels, from beginner to advanced!
 
-As a hacker group we promote the Open Source Culture and whenever we can, we organise meetings to share knowledge, code and enthusiasm for Ruby programming.
+As a hacker group we promote the Open Source Culture and whenever we can, we organise meetings to share knowledge, code and our enthusiasm for programming in Ruby.
 
 ## Participate
 
