@@ -9,22 +9,30 @@ This repository contains the source code for our website[nairuby.org][nairuby] a
 
 ###Setup
 Assuming that you have Ruby installed on your machine,
-Install Jekyll 
+Install Jekyll
+
 `gem install jekyll`
 
 clone the repository using git (see for git installation)
-`git clone git@github.com:Nairuby/nairuby.github.io.git` 
 
-Change the directory to the clone repository
+`git clone git@github.com:Nairuby/nairuby.github.io.git`
+
+Change the directory to nairuby.github.io
+
 `cd nairuby.github.io`
 
-Run a local instance on your machine
+Run a local copy of the website
+
 `jekyll serve --watch --safe --trace`
 
+Point your web browser to localhost
+
+`http://localhost:4000`
+
 To run Jekyll such that you match [GitHub Pages][github-pages] build server (useful for
-debugging), run Jekyll with [Bundler][bundler]. 
-Use the command 
-`bundle exec jekyll serve --watch --safe --trace`.
+debugging), run Jekyll with [Bundler][bundler].
+
+`bundle exec jekyll serve --watch --safe --trace`
 
 For more comprehensive information, visit [nairuby.org] [nairuby].
 
