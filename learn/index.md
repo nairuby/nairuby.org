@@ -6,16 +6,24 @@ permalink: /learn/
 ---
 
 
+Take a look at our list of resources that can help you get up to speed with the
+Ruby programming language from the basic building blocks upto to the various
+frameworks and tools in the Ruby ecosystem. If you want to add your own
+resources, [fork this repo][fork] and send in a pull request.
+
 ### Ruby
 
 * [Ruby Core API Documentation][ruby-8]
-* [Rubular][ruby-7] - _Interactive Ruby regular expression editor_
 * [Download and install Ruby][ruby-2]
 * [Why's Poignant Guide to Ruby][ruby-3]
 * [The Pickaxe Book][ruby-4]
 * [Try Ruby in Your Browser][ruby-5]
 * [CodeAcademy Ruby Track][ruby-1] - _Learn to code Ruby interactively_
 * Other [Ruby community resources][ruby-6]
+
+### Ruby Tools
+
+* [Rubular][ruby-tool-1] - _Interactive Ruby regular expression editor_
 
 ### Frameworks
 
@@ -27,7 +35,7 @@ permalink: /learn/
   * [Ruby on Rails Tutorials][rails-4] by [Michael Hartl][rails-5]
   * [Rails for Zombies][rails-8] - _Learn Rails the Zombie way_
   * [Agile Web Development with Rails][rails-9]
-  * Other [Ruby on Rails books at Amazon][rails-10]
+  * Other [Ruby on Rails books on Amazon][rails-10]
 
 
 [rails-1]: http://railsapps.github.io/what-is-ruby-rails.html
@@ -47,5 +55,8 @@ permalink: /learn/
 [ruby-4]: http://ruby-doc.com/docs/ProgrammingRuby/
 [ruby-5]: http://tryruby.org/
 [ruby-6]: https://www.ruby-lang.org/en/community/
-[ruby-7]: http://rubular.com/
 [ruby-8]: http://www.ruby-doc.org/core
+
+[ruby-tool-1]: http://rubular.com/
+
+[fork]: https://github.com/Nairuby/nairuby.github.io/fork

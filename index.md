@@ -5,9 +5,13 @@ sitemap: true
 permalink: /
 ---
 
-Welcome to **Nairuby**, a user group for Ruby programmers based in Nairobi [Nairobi, Kenya][nairobi-kenya-map]. We welcome all programmers of all levels, from beginner to advanced!
+Welcome to **Nairuby**, a user group for [Ruby][5] programmers based in
+[Nairobi, Kenya][nairobi-kenya-map]. We welcome all programmers of all levels,
+from beginner to advanced!
 
-As a hacker group we promote the Open Source Culture and whenever we can, we organise meetings to share knowledge, code and our enthusiasm for programming in Ruby.
+As a hacker group we promote the [Open Source][11] Culture and whenever we can,
+we organise meetings to share knowledge, code and our enthusiasm for programming
+in Ruby.
 
 ## Participate
 
@@ -26,7 +30,7 @@ There are many ways to participate in Nairuby:
     these. Happens every week except the first week of the month.
 
     * **Lunch meetings** to hang out and meet fellow Ruby enthusiasts.
-    Occurs evry last Wednesday of the month.
+    Occurs every last Wednesday of the month.
 
 * **Give a presentation** at one our our monthly meetings and share
 something you've learned in the world of Ruby with the group. You can also
@@ -45,7 +49,8 @@ publicly available on GitHub][1] and is powered by [Jekyll][2]. Help us close [o
 
 ## Learn about Ruby and programming
 
-Are you new to the Ruby programming language? Here is a list of resources to get you started! 
+If you are you new to the Ruby programming language? Here is a list of resources
+to get you started!
 
 * [Download and install Ruby][5]
 * [Why's Poignant Guide to Ruby][6]
@@ -54,7 +59,8 @@ Are you new to the Ruby programming language? Here is a list of resources to get
 * [CodeAcademy Ruby Track][9]
 * [Link with other community resources][10]
 
-We would like to invite you to our monthly Ruby beginner's meetups! See the participate section.
+For more resources check out our **[Learning Resources][12]** page.
+
 
 [mail-list]: https://groups.google.com/forum/#!forum/nairuby
 [nairobi-kenya-map]: http://goo.gl/AMspr8
@@ -70,4 +76,6 @@ We would like to invite you to our monthly Ruby beginner's meetups! See the part
 [8]: http://tryruby.org/
 [9]: http://www.codecademy.com/tracks/ruby
 [10]: https://www.ruby-lang.org/en/community/
+[11]: http://en.wikipedia.org/wiki/Open_source
+[12]: /learn/
 
