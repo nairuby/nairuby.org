@@ -32,7 +32,7 @@ There are many ways to participate in Nairuby:
     * **Lunch meetings** to hang out and meet fellow Ruby enthusiasts.
     Occurs every last Wednesday of the month.
 
-* **Give a presentation** at one our our monthly meetings and share
+* **[Give a presentation][presentations]** at one our our monthly meetings and share
 something you've learned in the world of Ruby with the group. You can also
 suggest a presentation if there is something you would like to learn or to recruit a speaker.
 
@@ -64,6 +64,7 @@ For more resources check out our **[Learning Resources][12]** page.
 
 [mail-list]: https://groups.google.com/forum/#!forum/nairuby
 [nairobi-kenya-map]: http://goo.gl/AMspr8
+[presentations]: /presentations/
 [ror]: http://rubyonrails.org/
 
 [1]: https://github.com/Nairuby/nairuby.github.io
