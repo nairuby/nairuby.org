@@ -6,7 +6,7 @@ permalink: /presentations/
 ---
 
 
-Interested in presenting at Nairuby? We would love to have you!
+Interested in presenting at Nairuby? _**We'd would love to have you!**_
 
 ### Quick Tips
 
