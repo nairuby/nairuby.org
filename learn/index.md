@@ -1,7 +1,7 @@
 ---
 title: Learning Resources
 layout: default
-sitemap: false
+sitemap: true
 permalink: /learn/
 ---
 
