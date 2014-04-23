@@ -5,46 +5,30 @@ sitemap: false
 permalink: /learn/
 ---
 
-### Programming
-
-* Chris Pine's "Learn To Program" online book
 
 ### Ruby
 
-* APIdock documentation for Ruby's API
-* Rubular an interactive Ruby regular expression editor
+* [Ruby Core API Documentation][ruby-8]
+* [Rubular][ruby-7] - _Interactive Ruby regular expression editor_
+* [Download and install Ruby][ruby-2]
+* [Why's Poignant Guide to Ruby][ruby-3]
+* [The Pickaxe Book][ruby-4]
+* [Try Ruby in Your Browser][ruby-5]
 * [CodeAcademy Ruby Track][ruby-1] - _Learn to code Ruby interactively_
+* Other [Ruby community resources][ruby-6]
 
 ### Frameworks
 
-#### Rails
+* Rails
+  * [What is Ruby and Ruby on Rails?][rails-1]
+  * [Installing Rails on Mac OS X][rails-2]
+  * [Installing Rails on Ubuntu][rails-3]
+  * [Getting Started with Rails][rails-6] from [the official Rails guides][rails-7]
+  * [Ruby on Rails Tutorials][rails-4] by [Michael Hartl][rails-5]
+  * [Rails for Zombies][rails-8] - _Learn Rails the Zombie way_
+  * [Agile Web Development with Rails][rails-9]
+  * Other [Ruby on Rails books at Amazon][rails-10]
 
-* [What is Ruby and Ruby on Rails?][rails-1]
-* [Installing Rails on Mac OS X][rails-2]
-* [Installing Rails on Ubuntu][rails-3]
-* [Getting Started with Rails][rails-6] from [the official Rails guides][rails-7]
-* [Ruby on Rails Tutorials][rails-4] by [Michael Hartl][rails-5]
-* [Rails for Zombies][rails-8] - _Learn Rails the Zombie way_
-* [Agile Web Development with Rails][rails-9]
-* Other [Ruby on Rails books at Amazon][rails-10]
-
-#### Sinatra
-
-* Link 1
-* Link 2
-* Link 3
-
-### Databases Tools
-
-* Sequel is an easy to use toolkit for interacting with relational databases, and is probably a better place to start with databases than ActiveRecord.
-
-### Classes
-
-* Coursera online database course
-
-### Git
-
-* Think Like (a) Git
 
 [rails-1]: http://railsapps.github.io/what-is-ruby-rails.html
 [rails-2]: http://www.createdbypete.com/articles/ruby-on-rails-development-setup-for-mac-osx/
@@ -55,6 +39,13 @@ permalink: /learn/
 [rails-7]: http://guides.rubyonrails.org/index.html
 [rails-8]: http://railsforzombies.org/
 [rails-9]: http://pragprog.com/titles/rails4/agile-web-development-with-rails
-[rails-10]: http://www.amazon.com/gp/search?ie=UTF8&keywords=ruby%20on%20rails&tag=rubonrai-20&index=books&linkCode=ur2&camp=1789&creative=9325
+[rails-10]: http://goo.gl/MWIwa
 
 [ruby-1]: http://www.codecademy.com/tracks/ruby
+[ruby-2]: https://www.ruby-lang.org
+[ruby-3]: http://mislav.uniqpath.com/poignant-guide/
+[ruby-4]: http://ruby-doc.com/docs/ProgrammingRuby/
+[ruby-5]: http://tryruby.org/
+[ruby-6]: https://www.ruby-lang.org/en/community/
+[ruby-7]: http://rubular.com/
+[ruby-8]: http://www.ruby-doc.org/core
