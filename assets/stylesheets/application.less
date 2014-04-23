@@ -35,17 +35,31 @@ a, a:visited { color: @link_color; }
 a:hover      { text-decoration: underline; }
 
 header {
-  margin-bottom: 1.5em !important;
+  margin-bottom: 2em !important;
 
   > div {
+    border-bottom: 1px solid @border_color;
     padding-bottom: 10px;
   }
 
   a:hover { text-decoration: none; }
 
-  h1.title {
+  .title {
     margin-top: .2rem;
     margin-bottom: .5rem;
+  }
+
+  .page-title {
+    margin-top: .2rem;
+    margin-bottom: .5rem;
+    text-align:left;
+    float:left;
+  }
+
+  .page-logo {
+    text-align:left;
+    float:left;
+    margin-right: 1rem;
   }
 }
 
