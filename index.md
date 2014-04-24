@@ -45,7 +45,9 @@ related jobs and gigs near Nairobi if you follow the job posting guidelines.
 publicly available on GitHub][1] and is powered by [Jekyll][2]. Help us close [open issues][3] or [create new issues][4].
 
 * **[Follow us on Twitter][twitter]** for meeting announcements and other
-  general info. Our handle is [@NairubyKE][twitter].
+  general info — [@NairubyKE][twitter].
+
+* Follow our **[Code of Conduct][code-of-conduct]**.
 
 * **Tell the world** that you're part of this user group and find others to join.
 
@@ -64,7 +66,7 @@ to get you started!
 
 For more resources check out our **[Learning Resources][12]** page.
 
-
+[code-of-conduct]: /about/code-of-conduct/
 [contribute-code]: https://github.com/Nairuby
 [mail-list]: https://groups.google.com/forum/#!forum/nairuby
 [nairobi-kenya-map]: http://goo.gl/AMspr8
