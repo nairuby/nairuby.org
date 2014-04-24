@@ -44,6 +44,9 @@ related jobs and gigs near Nairobi if you follow the job posting guidelines.
 * **[Contribute code][contribute-code] to Nairuby's official homepage** _(this site)_. The [code is
 publicly available on GitHub][1] and is powered by [Jekyll][2]. Help us close [open issues][3] or [create new issues][4].
 
+* **[Follow us on Twitter][twitter]** for meeting announcements and other
+  general info. Our handle is [@NairubyKE][twitter].
+
 * **Tell the world** that you're part of this user group and find others to join.
 
 
@@ -67,6 +70,7 @@ For more resources check out our **[Learning Resources][12]** page.
 [nairobi-kenya-map]: http://goo.gl/AMspr8
 [presentations]: /presentations/
 [ror]: http://rubyonrails.org/
+[twitter]: https://twitter.com/NairubyKE
 
 [1]: https://github.com/Nairuby/nairuby.github.io
 [2]: http://jekyllrb.com/
