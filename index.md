@@ -67,6 +67,15 @@ to get you started!
 
 For more resources check out our **[Learning Resources][12]** page.
 
+
+## Community Contributions
+
+We're not merely a user group, but an open source culture incubator churning out
+various software projects and initiaves. Some of the notable ones are:
+
+* [Nairobi Dev School][16] by [Njeri Chelimo Martha][17]
+* [Pesapal Gem][14] by [King'ori Maina][15]
+
 [code-of-conduct]: /about/code-of-conduct/
 [contribute-code]: https://github.com/Nairuby
 [mail-list]: https://groups.google.com/forum/#!forum/nairuby
@@ -88,4 +97,7 @@ For more resources check out our **[Learning Resources][12]** page.
 [11]: http://en.wikipedia.org/wiki/Open_source
 [12]: /learn/
 [13]: https://twitter.com/search?f=realtime&q=%23Nairuby
-
+[14]: https://itsmrwave.github.io/pesapal-gem
+[15]: http://kingori.co
+[16]: http://nairobidevschool.org/
+[17]: https://twitter.com/NjeriChelimo
