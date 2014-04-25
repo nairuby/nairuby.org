@@ -44,8 +44,9 @@ related jobs and gigs near Nairobi if you follow the job posting guidelines.
 * **[Contribute code][contribute-code] to Nairuby's official homepage** _(this site)_. The [code is
 publicly available on GitHub][1] and is powered by [Jekyll][2]. Help us close [open issues][3] or [create new issues][4].
 
-* **[Follow us on Twitter][twitter]** for meeting announcements and other
-  general info — [@NairubyKE][twitter].
+* **[Follow us on Twitter][twitter]** for meeting announcements and other general
+  info. Ruby related [tweets from the community with #Nairuby hashtag][13]
+  should be retweeted by [@NairubyKE][twitter] as soon as it's reviewed.
 
 * Follow our **[Code of Conduct][code-of-conduct]**.
 
@@ -86,4 +87,5 @@ For more resources check out our **[Learning Resources][12]** page.
 [10]: https://www.ruby-lang.org/en/community/
 [11]: http://en.wikipedia.org/wiki/Open_source
 [12]: /learn/
+[13]: https://twitter.com/search?f=realtime&q=%23Nairuby
 
