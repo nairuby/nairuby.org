@@ -15,4 +15,5 @@ exclude: ['CNAME',
           ]
 
 nairuby:
-  github_url: https://github.com/nairuby
+  github_url: https://github.com/Nairuby
+  twitter_url: https://twitter.com/NairubyKE
