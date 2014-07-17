@@ -51,6 +51,13 @@ resources, [fork this repo][fork] and send in a pull request.
   * [Overview][rspec-2]
   * [Better Specs _{ rspec guidelines with ruby }_][rspec-1]
 
+### Screencasts
+
+* Rails
+
+  * [Railscasts][rails-12]
+  * [Go Rails][rails-13]
+
 [jekyll-1]: http://jekyllrb.com
 [jekyll-2]: https://help.github.com/articles/using-jekyll-with-pages
 
@@ -65,6 +72,8 @@ resources, [fork this repo][fork] and send in a pull request.
 [rails-9]: http://pragprog.com/titles/rails4/agile-web-development-with-rails
 [rails-10]: http://goo.gl/MWIwa
 [rails-11]: http://www.jetbrains.com/ruby/
+[rails-12]: http://railscasts.com/
+[rails-13]: https://gorails.com/
 
 [ruby-1]: http://www.codecademy.com/tracks/ruby
 [ruby-2]: https://www.ruby-lang.org
