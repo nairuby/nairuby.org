@@ -44,7 +44,7 @@ resources, [fork this repo][fork] and send in a pull request.
   * [RubyMine][rails-11] - _Ruby on Rails IDE_
   * Other [Ruby on Rails books on Amazon][rails-10]
   * [Railscasts][rails-12]
-  * [Go Rails][rails-13]
+  * [Go Rails][rails-13]- _More Rails Screencasts_
 
 ### Testing
 
