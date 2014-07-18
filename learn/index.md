@@ -43,6 +43,8 @@ resources, [fork this repo][fork] and send in a pull request.
   * [Agile Web Development with Rails][rails-9]
   * [RubyMine][rails-11] - _Ruby on Rails IDE_
   * Other [Ruby on Rails books on Amazon][rails-10]
+  * [Railscasts][rails-12]
+  * [Go Rails][rails-13]
 
 ### Testing
 
@@ -51,12 +53,6 @@ resources, [fork this repo][fork] and send in a pull request.
   * [Overview][rspec-2]
   * [Better Specs _{ rspec guidelines with ruby }_][rspec-1]
 
-### Screencasts
-
-* Rails
-
-  * [Railscasts][rails-12]
-  * [Go Rails][rails-13]
 
 [jekyll-1]: http://jekyllrb.com
 [jekyll-2]: https://help.github.com/articles/using-jekyll-with-pages
