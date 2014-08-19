@@ -7,6 +7,10 @@ relative_permalinks: false
 redcarpet:
   extensions: ['no_intra_emphasis', 'fenced_code_blocks', 'autolink', 'tables']
 
+sass:
+  sass_dir: _sass
+  style: :compressed
+
 exclude: ['CNAME',
           'Gemfile',
           'Gemfile.lock',

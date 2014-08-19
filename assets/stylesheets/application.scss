@@ -1,11 +1,14 @@
-@font_color: hsl(228, 14%, 36%);
-@background_color: #fff;
-@border_color: hsl(  0,  0%, 80% );
-@link_color: hsl(358, 30%, 40%);
+---
+---
+
+$font_color: hsl(228, 14%, 36%);
+$background_color: #fff;
+$border_color: hsl(  0,  0%, 80% );
+$link_color: hsl(358, 30%, 40%);
 
 html, body {
-  color: @font_color;
-  background-color: @background_color;
+  color: $font_color;
+  background-color: $background_color;
   font-size: 14px;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -31,14 +34,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-a, a:visited { color: @link_color; }
+a, a:visited { color: $link_color; }
 a:hover      { text-decoration: underline; }
 
 header {
   margin-bottom: 2em !important;
 
   > div {
-    border-bottom: 1px solid @border_color;
+    border-bottom: 1px solid $border_color;
     padding-bottom: 10px;
   }
 
@@ -68,7 +71,7 @@ footer {
   margin-top: 2em !important;
 
   > div {
-    border-top: 1px solid @border_color;
+    border-top: 1px solid $border_color;
     padding-top: 10px;
   }
 
