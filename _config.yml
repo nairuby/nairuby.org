@@ -1,6 +1,6 @@
 name: Nairuby
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 permalink: /:categories/:year/:month/:title/
 relative_permalinks: false
 
