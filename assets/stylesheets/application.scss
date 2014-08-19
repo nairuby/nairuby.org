@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
   font-style: normal;
   color: #222;
   line-height: 1.4;
-  margin-top: 3rem;
+  margin-top: 2.5rem;
   margin-bottom: .5rem;
   text-rendering: optimizeLegibility;
 }
@@ -90,4 +90,13 @@ ul {
 #wrapper {
   padding-bottom: 10%;
   padding-top: 5%;
+}
+
+.members-thumbs {
+  margin-top: 1rem;
+
+  p {
+    margin-top: 10px;
+    font-size: 0.9rem;
+  }
 }
