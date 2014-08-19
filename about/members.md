@@ -26,7 +26,7 @@ this list is automatically generated from GitHub.
 
     {% for member in site.github.organization_members %}
     <li>
-      <a class="th radius" href="{{ member.html_url }}">
+      <a target="_blank" class="th radius" href="{{ member.html_url }}">
         <img src="{{ member.avatar_url }}">
       </a>
       <p>
