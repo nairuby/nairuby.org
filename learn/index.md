@@ -19,6 +19,11 @@ resources, [fork this repo][fork] and send in a pull request.
 * [The Pickaxe Book][ruby-4]
 * [Try Ruby in Your Browser][ruby-5]
 * [CodeAcademy Ruby Track][ruby-1] - _Learn to code Ruby interactively_
+* [Ruby Koans][ruby-9]
+* [Ruby Warrior][ruby-10] - based on Ryan Bates’ command line version of the game
+* [Learn To Program][ruby-11] - ground-level tutorial by Chris Pine
+* [Ruby Monk][ruby-12]
+* [Ruby Basic Tutorial][ruby-13]
 * Other [Ruby community resources][ruby-6]
 
 ### Ruby Tools
@@ -78,6 +83,11 @@ resources, [fork this repo][fork] and send in a pull request.
 [ruby-5]: http://tryruby.org/
 [ruby-6]: https://www.ruby-lang.org/en/community/
 [ruby-8]: http://www.ruby-doc.org/core
+[ruby-9]: http://rubykoans.com/
+[ruby-10]: https://www.bloc.io/ruby-warrior/
+[ruby-11]: https://pine.fm/LearnToProgram/
+[ruby-12]: https://rubymonk.com/
+[ruby-13]: https://netguru.co/blog/all-you-need-to-know-to-start-with-ruby
 
 [ruby-tool-1]: http://rubular.com/
 
