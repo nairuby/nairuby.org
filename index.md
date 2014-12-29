@@ -73,6 +73,7 @@ For more resources check out our **[Learning Resources][12]** page.
 We're not merely a user group, but an open source culture incubator churning out
 various software projects and initiaves. Some of the notable ones are:
 
+* [Annotator Store Rails engine][18] by [King'ori Maina][15]
 * [Nairobi Dev School][16] by [Njeri Chelimo Martha][17]
 * [Pesapal Gem][14] by [King'ori Maina][15]
 
@@ -101,3 +102,4 @@ various software projects and initiaves. Some of the notable ones are:
 [15]: http://kingori.co
 [16]: http://nairobidevschool.org/
 [17]: https://twitter.com/NjeriChelimo
+[18]: https://github.com/itsmrwave/annotator_store-gem
