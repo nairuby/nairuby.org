@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nairuby/nairuby.github.io.svg?branch=master)][13]
+
 ## Preamble
 
 The **Nairobi Ruby Brigade** or **nairuby** or **nai.rb**, is a
@@ -6,7 +8,7 @@ User group for Ruby programmers based in [Nairobi, Kenya][nairobi-kenya-map]. We
 We have been meeting since August 2011 for presentations, demos and discussions applicable
 across various skill levels from beginner to advanced.
 
-This repository contains the source code for our website[nairuby.org][nairuby] and is powered by [Jekyll][jekyll], a static site generator.
+This repository contains the source code for our website [nairuby.org][nairuby] and is powered by [Jekyll][jekyll], a static site generator.
 
 
 ## Installation & Setup
@@ -46,7 +48,7 @@ Running these tests has been simplified for you into one simple command, which i
 bundle exec rake test
 ```
 
-See `Rakefile` in the source root for details.
+See `Rakefile` in the source root for details or what comprises the test. Also note that automated tests are configured and set up to [run on Travis-CI][1]. Any push or pull request will be built.
 
 ---
 
@@ -58,3 +60,5 @@ For more information about Nairuby, visit [nairuby.org] [nairuby].
 [jekyll]: http://jekyllrb.com/
 [nairobi-kenya-map]: http://goo.gl/AMspr8
 [nairuby]: http://nairuby.org/
+
+[1]: https://travis-ci.org/nairuby/nairuby.github.io
