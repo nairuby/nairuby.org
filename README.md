@@ -1,4 +1,5 @@
-##Preamble
+## Preamble
+
 The **Nairobi Ruby Brigade** or **nairuby** or **nai.rb**, is a
 User group for Ruby programmers based in [Nairobi, Kenya][nairobi-kenya-map]. We would like to welcome all programmers that are interested in the Ruby language, tools, libraries and frameworks.
 
@@ -7,34 +8,49 @@ across various skill levels from beginner to advanced.
 
 This repository contains the source code for our website[nairuby.org][nairuby] and is powered by [Jekyll][jekyll], a static site generator.
 
-###Setup
-Assuming that you have Ruby installed on your machine,
-Install Jekyll
 
-`gem install jekyll`
+## Installation & Setup
+Assuming that you have Ruby installed on your machine, follow the instructions below:
 
-clone the repository using git (see for git installation)
+```
+# Install Jekyll
+gem install jekyll
 
-`git clone git@github.com:Nairuby/nairuby.github.io.git`
+# Clone the repository using git (see for git installation)
+git clone git@github.com:nairuby/nairuby.github.io.git
 
-Change the directory to nairuby.github.io
+# Change the directory to nairuby.github.io
+cd nairuby.github.io
 
-`cd nairuby.github.io`
+# Run a local copy of the website
+jekyll serve --watch --safe --trace
 
-Run a local copy of the website
+# Point your web browser to localhost
+http://localhost:4000
+```
 
-`jekyll serve --watch --safe --trace`
+To run Jekyll such that you match the [GitHub Pages][github-pages] build server (useful for
+debugging), run Jekyll with [Bundler][bundler]. All this does is run Jekyll with the dependencies specified in the Gemfile.
 
-Point your web browser to localhost
+```
+bundle exec jekyll serve --watch --safe --trace
+```
 
-`http://localhost:4000`
+## Testing
 
-To run Jekyll such that you match [GitHub Pages][github-pages] build server (useful for
-debugging), run Jekyll with [Bundler][bundler].
+The first test checks if Jekyll is able to build our site successfully by running `jekyll build`. The second test involves running `HTML::Proofer` which is a set of tests to validate our HTML output. These tests check if our image references are legitimate, if they have alt tags, if our internal links are working, and so on. It's intended to be an all-in-one checker for our output.
 
-`bundle exec jekyll serve --watch --safe --trace`
+Running these tests has been simplified for you into one simple command, which is:
 
-For more comprehensive information, visit [nairuby.org] [nairuby].
+```
+bundle exec rake test
+```
+
+See `Rakefile` in the source root for details.
+
+---
+
+For more information about Nairuby, visit [nairuby.org] [nairuby].
 
 [bundler]: http://bundler.io/
 [github-pages]: https://pages.github.com/
