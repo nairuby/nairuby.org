@@ -11,12 +11,7 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-exclude: ['CNAME',
-          'Gemfile',
-          'Gemfile.lock',
-          '*.sublime-project',
-          'README.md'
-          ]
+exclude: ['CNAME', 'Gemfile', 'Rakefile', 'README.md', 'vendor']
 
 nairuby:
   github_url: https://github.com/Nairuby
