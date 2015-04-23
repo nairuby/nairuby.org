@@ -4,7 +4,7 @@
 # You can define all roles on a single server, or split them:
 
 set :deploy_to, '/var/www/nairuby.github.io/production'
-set :branch, 'production'
+set :branch, 'deploy_to_DO'
 
 role :app, %w{ubuntu@188.166.101.82}
 role :web, %w{ubuntu@188.166.101.82}
