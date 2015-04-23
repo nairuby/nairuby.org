@@ -1,8 +1,12 @@
 # config valid only for current version of Capistrano
 lock '3.4.0'
 
-set :application, 'my_app_name'
-set :repo_url, 'git@example.com:me/my_repo.git'
+set :user, "ubuntu"
+set :application, 'nairuby.github.io'
+set :repo_url, 'git@github.com:nairuby/nairuby.github.io.git'
+set :rvm_type, :user                     # Defaults to: :auto
+set :rvm_ruby_version, 'ruby-2.2.1@default'      # Defaults to: 'default'
+set :default_stage, "production"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
