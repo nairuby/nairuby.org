@@ -8,6 +8,10 @@ set :rvm_type, :user                     # Defaults to: :auto
 set :rvm_ruby_version, 'ruby-2.2.1@default'      # Defaults to: 'default'
 set :default_stage, "production"
 
+set :log_level, :debug
+set :ssh_options, {forward_agent: true}
+set :use_sudo, true
+
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
 
