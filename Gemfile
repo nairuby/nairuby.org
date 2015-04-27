@@ -14,3 +14,7 @@ gem 'capistrano'
 gem 'therubyracer'
 gem 'execjs'
 gem 'jekyll'
+
+group :development do
+  gem 'capistrano-bundler', '~> 1.1', require: false
+end
