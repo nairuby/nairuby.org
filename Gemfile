@@ -11,3 +11,6 @@ gem 'rake'
 
 # Deployment gem
 gem 'capistrano'
+gem 'therubyracer'
+gem 'execjs'
+gem 'jekyll'
