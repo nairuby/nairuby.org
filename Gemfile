@@ -8,3 +8,6 @@ gem 'html-proofer'
 
 # Rake is a Make-like program implemented in Ruby.
 gem 'rake'
+
+# Deploy with capistrano
+gem 'capistrano',  '~> 3.4.0', group: :development
