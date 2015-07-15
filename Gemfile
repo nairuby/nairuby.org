@@ -11,3 +11,5 @@ gem 'rake'
 
 # Deploy with capistrano
 gem 'capistrano',  '~> 3.4.0', group: :development
+gem 'capistrano-rvm'
+gem 'capistrano-bundler'
