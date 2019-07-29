@@ -93,7 +93,7 @@ various software projects and initiaves. Some of the notable ones are:
 [6]: http://mislav.uniqpath.com/poignant-guide/
 [7]: http://ruby-doc.com/docs/ProgrammingRuby/
 [8]: http://tryruby.org/
-[9]: http://www.codecademy.com/tracks/ruby
+[9]: https://www.codecademy.com/learn/learn-ruby
 [10]: https://www.ruby-lang.org/en/community/
 [11]: http://en.wikipedia.org/wiki/Open_source
 [12]: /learn/
