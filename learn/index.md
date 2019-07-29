@@ -82,7 +82,7 @@ resources, [fork this repo][fork] and send in a pull request.
 [ruby-4]: http://ruby-doc.com/docs/ProgrammingRuby/
 [ruby-5]: http://tryruby.org/
 [ruby-6]: https://www.ruby-lang.org/en/community/
-[ruby-8]: http://www.ruby-doc.org/core
+[ruby-8]: https://www.ruby-doc.org/core
 [ruby-9]: http://rubykoans.com/
 [ruby-10]: https://www.bloc.io/ruby-warrior/
 [ruby-11]: https://pine.fm/LearnToProgram/
