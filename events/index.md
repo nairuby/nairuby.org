@@ -33,19 +33,19 @@ _Friday, June 28, 2018 - Saturday, June 30, 2018  - Nairobi, Kenya_
 
 _Friday, June 8, 2017 - Saturday, June 10, 2017 - Nairobi, Kenya_
 
- We've set up a [conference page here](http://ruby-conf-ke.nairuby.org/2017).
+ We've set up a [conference page here](http://rubyconf.nairuby.org/2017).
   
 ###RubyConf KE 2016
 
 _Friday, May 5, 2016 - Saturday, May 7, 2016 - Nairobi, Kenya_
 
- We've set up a [conference page here](http://ruby-conf-ke.nairuby.org/2016).
+ We've set up a [conference page here](http://rubyconf.nairuby.org/2016).
 
 ###RubyConf KE 2015
 
 _Friday, May 8, 2015 - Saturday, May 9, 2015 - Nairobi, Kenya_
 
- We've set up a [conference page here](http://ruby-conf-ke.nairuby.org/2015) if you wanna know the deets.
+ We've set up a [conference page here](http://rubyconf.nairuby.org/2015) if you wanna know the deets.
 
 [Get Your Ticket ...](https://www.eventbrite.com/e/rubyconf-ke-2015-tickets-15386615782)
 
