@@ -65,7 +65,7 @@ Any push or pull request will be built.
 
 ---
 
-For more information about Nairuby, visit [nairuby.org] [nairuby].
+For more information about Nairuby, visit [nairuby].
 
 [bundler]: http://bundler.io/
 [github-pages]: https://pages.github.com/

@@ -22,7 +22,7 @@ There are many ways to participate in Nairuby:
 
     * **General meetings** for formal presentations, lightning talks and group
     discussions on topics of interest to those working with Ruby. Meetings are
-    usually the first Tuesday of the month, _"Ruby Tuesday"_. Let us know if
+    usually the first Thursday of the month, _"Ruby Thursday"_. Let us know if
     you're interested in presenting.
 
     * **Beginner's meetings** for one-on-one help. Programmers with any level of
@@ -35,6 +35,8 @@ There are many ways to participate in Nairuby:
 * **[Give a presentation][presentations]** at one our our monthly meetings and share
 something you've learned in the world of Ruby with the group. You can also
 suggest a presentation if there is something you would like to learn or to recruit a speaker.
+
+* **[Join our Meetup Group][meetup]** many of the meetups and events are announced through this.
 
 * **[Subscribe to our online mailing list:][mail-list]** _"nairuby"_ to receive
 meeting announcements and notes, get suggestions of interesting events, and
@@ -73,9 +75,9 @@ For more resources check out our **[Learning Resources][12]** page.
 We're not merely a user group, but an open source culture incubator churning out
 various software projects and initiaves. Some of the notable ones are:
 
+* [Pesapal Gem][14] by [King'ori Maina][15]
 * [Annotator Store Rails engine][18] by [King'ori Maina][15]
 * [Nairobi Dev School][16] by [Njeri Chelimo Martha][17]
-* [Pesapal Gem][14] by [King'ori Maina][15]
 
 [code-of-conduct]: /about/code-of-conduct/
 [contribute-code]: https://github.com/Nairuby
@@ -83,6 +85,7 @@ various software projects and initiaves. Some of the notable ones are:
 [nairobi-kenya-map]: http://goo.gl/AMspr8
 [presentations]: /presentations/
 [ror]: http://rubyonrails.org/
+[meetup]: https://www.meetup.com/Nairuby/
 [twitter]: https://twitter.com/NairubyKE
 
 [1]: https://github.com/Nairuby/nairuby.github.io
@@ -93,13 +96,13 @@ various software projects and initiaves. Some of the notable ones are:
 [6]: http://mislav.uniqpath.com/poignant-guide/
 [7]: http://ruby-doc.com/docs/ProgrammingRuby/
 [8]: http://tryruby.org/
-[9]: http://www.codecademy.com/tracks/ruby
+[9]: https://www.codecademy.com/learn/learn-ruby
 [10]: https://www.ruby-lang.org/en/community/
 [11]: http://en.wikipedia.org/wiki/Open_source
 [12]: /learn/
 [13]: https://twitter.com/search?f=realtime&q=%23Nairuby
-[14]: https://itsmrwave.github.io/pesapal-gem
+[14]: https://github.com/itskingori/pesapal-gem
 [15]: http://kingori.co
 [16]: http://nairobidevschool.org/
-[17]: https://twitter.com/NjeriChelimo
-[18]: https://github.com/itsmrwave/annotator_store-gem
+[17]: https://njerichelimo.wordpress.com/
+[18]: https://github.com/itskingori/annotator_store-gem

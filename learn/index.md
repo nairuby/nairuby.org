@@ -76,13 +76,13 @@ resources, [fork this repo][fork] and send in a pull request.
 [rails-12]: http://railscasts.com/
 [rails-13]: https://gorails.com/
 
-[ruby-1]: http://www.codecademy.com/tracks/ruby
+[ruby-1]: https://www.codecademy.com/learn/learn-ruby
 [ruby-2]: https://www.ruby-lang.org
 [ruby-3]: http://mislav.uniqpath.com/poignant-guide/
 [ruby-4]: http://ruby-doc.com/docs/ProgrammingRuby/
 [ruby-5]: http://tryruby.org/
 [ruby-6]: https://www.ruby-lang.org/en/community/
-[ruby-8]: http://www.ruby-doc.org/core
+[ruby-8]: https://www.ruby-doc.org/core
 [ruby-9]: http://rubykoans.com/
 [ruby-10]: https://www.bloc.io/ruby-warrior/
 [ruby-11]: https://pine.fm/LearnToProgram/

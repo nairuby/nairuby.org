@@ -113,7 +113,7 @@ We‭ ‬expect‭ ‬all‭ ‬community‭ ‬participants‭ (‬contributors
 ‎This‭ ‬should‭ ‬be‭ ‬a‭ ‬single‭ ‬person‭ or‭ ‬a‭ ‬small‭ ‬team‭ ‬who‭ ‬can‭ ‬respond‭ ‬to‭ ‬issues‭ ‬directly‭:
 
   * Bernard Banta ([@BantaB](https://twitter.com/BantaB))
-  * King'ori Maina ([@itsmrwave](https://twitter.com/itsmrwave))
+  * King'ori Maina ([@itskingori](https://twitter.com/itskingori))
 
 Emails can be provided on request for private matters. Twitter handles are
 preferred due to privacy concerns.
