@@ -76,7 +76,7 @@ resources, [fork this repo][fork] and send in a pull request.
 [rails-12]: http://railscasts.com/
 [rails-13]: https://gorails.com/
 
-[ruby-1]: http://www.codecademy.com/tracks/ruby
+[ruby-1]: https://www.codecademy.com/learn/learn-ruby
 [ruby-2]: https://www.ruby-lang.org
 [ruby-3]: http://mislav.uniqpath.com/poignant-guide/
 [ruby-4]: http://ruby-doc.com/docs/ProgrammingRuby/
