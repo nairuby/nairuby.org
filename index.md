@@ -22,8 +22,8 @@ There are many ways to participate in Nairuby:
 
     * **General meetings** for formal presentations, lightning talks and group
     discussions on topics of interest to those working with Ruby. Meetings are
-    usually the first Tuesday of the month, _"Ruby Tuesday"_. Let us know if
-    you're interested in presenting.
+    usually the first Thursday of the month, _"Ruby Thursday"_. Let us know if
+    you're interested in presenting. Upcoming events on [Meetup](https://www.meetup.com/Nairuby/).
 
     * **Beginner's meetings** for one-on-one help. Programmers with any level of
     Ruby experience are welcome at these so they can get and offer help at
