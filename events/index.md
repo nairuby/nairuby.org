@@ -41,11 +41,12 @@ _Friday, May 5, 2016 - Saturday, May 7, 2016 - Nairobi, Kenya_
 
  We've set up a [conference page here](http://rubyconf.nairuby.org/2016).
 
+
 ###RubyConf KE 2015
 
 _Friday, May 8, 2015 - Saturday, May 9, 2015 - Nairobi, Kenya_
 
- We've set up a [conference page here](http://rubyconf.nairuby.org/2015) if you wanna know the deets.
+ We've set up a [conference page here](http://rubyconf.nairuby.org/2015) if you wanna know the details.
 
 [Get Your Ticket ...](https://www.eventbrite.com/e/rubyconf-ke-2015-tickets-15386615782)
 
@@ -85,3 +86,4 @@ _Saturday, March 28, 2015 - Nairobi, Kenya_
 
 [Get Your Ticket ...](https://www.eventbrite.com/e/ruby-workshop-tickets-16154746281#)
 
+[Get Your Ticket ...](https://www.eventbrite.com/e/ruby-workshop-tickets-16154746281#)
