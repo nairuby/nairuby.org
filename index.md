@@ -22,7 +22,7 @@ There are many ways to participate in Nairuby:
 
     * **General meetings** for formal presentations, lightning talks and group
     discussions on topics of interest to those working with Ruby. Meetings are
-    usually the first Tuesday of the month, _"Ruby Tuesday"_. Let us know if
+    usually the first Thursday of the month, _"Ruby Thursday"_. Let us know if
     you're interested in presenting.
 
     * **Beginner's meetings** for one-on-one help. Programmers with any level of
@@ -35,6 +35,8 @@ There are many ways to participate in Nairuby:
 * **[Give a presentation][presentations]** at one our our monthly meetings and share
 something you've learned in the world of Ruby with the group. You can also
 suggest a presentation if there is something you would like to learn or to recruit a speaker.
+
+* **[Join our Meetup Group][meetup]** many of the meetups and events are announced through this.
 
 * **[Subscribe to our online mailing list:][mail-list]** _"nairuby"_ to receive
 meeting announcements and notes, get suggestions of interesting events, and
@@ -83,6 +85,7 @@ various software projects and initiaves. Some of the notable ones are:
 [nairobi-kenya-map]: http://goo.gl/AMspr8
 [presentations]: /presentations/
 [ror]: http://rubyonrails.org/
+[meetup]: https://www.meetup.com/Nairuby/
 [twitter]: https://twitter.com/NairubyKE
 
 [1]: https://github.com/Nairuby/nairuby.github.io
