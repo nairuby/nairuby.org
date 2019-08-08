@@ -78,6 +78,7 @@ various software projects and initiaves. Some of the notable ones are:
 * [Pesapal Gem][14] by [King'ori Maina][15]
 * [Annotator Store Rails engine][18] by [King'ori Maina][15]
 * [Nairobi Dev School][16] by [Njeri Chelimo Martha][17]
+* [Mpesa Stk Gem][19] by [Mboya Berry][20]
 
 [code-of-conduct]: /about/code-of-conduct/
 [contribute-code]: https://github.com/Nairuby
@@ -106,3 +107,6 @@ various software projects and initiaves. Some of the notable ones are:
 [16]: http://nairobidevschool.org/
 [17]: https://njerichelimo.wordpress.com/
 [18]: https://github.com/itskingori/annotator_store-gem
+[19]: https://github.com/mboya/mpesa_stk
+[20]: https://twitter.com/mboyaberry
+

@@ -29,6 +29,9 @@ git clone git@github.com:nairuby/nairuby.github.io.git
 # Change the directory to nairuby.github.io
 cd nairuby.github.io
 
+# bundle the app
+bundle install
+
 # Run a local copy of the website
 jekyll serve --watch --safe --trace
 
