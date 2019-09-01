@@ -32,7 +32,7 @@ There are many ways to participate in Nairuby:
     * **Lunch meetings** to hang out and meet fellow Ruby enthusiasts.
     Occurs every last Wednesday of the month.
 
-* **[Give a presentation][presentations]** at one of our monthly meetings and share
+* **[Give a presentation][presentations]** at one our our monthly meetings and share
 something you've learned in the world of Ruby with the group. You can also
 suggest a presentation if there is something you would like to learn or to recruit a speaker.
 
