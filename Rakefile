@@ -1,18 +1,24 @@
 #!/usr/bin/env ruby
 
-##require 'html/proofer'
-
-##task :test do
-##  puts "\n## Generating Site with Jekyll"
-##  system "bundle exec jekyll build"
-
-##  puts "\n## HTML Proofing the generated site"
-##  HTML::Proofer.new('./_site', alt_ignore: [/.*/]).run
-## end
 require 'html-proofer'
 
-task :test do
-  sh "bundle exec jekyll build"
-  options = { :assume_extension => true }
+task :build do
+    system("bundle exec jekyll build")
+end
+
+task :test => :build do
+  options = {
+      :assume_extension => true,
+      :empty_alt_ignore => true
+  }
+
   HTMLProofer.check_directory("./_site", options).run
 end
+
+
+
+
+
+
+
+
