@@ -24,6 +24,7 @@ resources, [fork this repo][fork] and send in a pull request.
 * [Learn To Program][ruby-11] - ground-level tutorial by Chris Pine
 * [Ruby Monk][ruby-12]
 * [Ruby Basic Tutorial][ruby-13]
+* [Developing Games With Ruby][ruby-14]
 * Other [Ruby community resources][ruby-6]
 
 ### Ruby Tools
@@ -88,6 +89,7 @@ resources, [fork this repo][fork] and send in a pull request.
 [ruby-11]: https://pine.fm/LearnToProgram/
 [ruby-12]: https://rubymonk.com/
 [ruby-13]: https://netguru.co/blog/all-you-need-to-know-to-start-with-ruby
+[ruby-14]: https://leanpub.com/developing-games-with-ruby/read
 
 [ruby-tool-1]: http://rubular.com/
 
