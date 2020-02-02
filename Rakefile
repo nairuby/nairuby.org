@@ -9,3 +9,7 @@ task :test do
   puts "\n## HTML Proofing the generated site"
   HTML::Proofer.new('./_site', alt_ignore: [/.*/]).run
 end
+
+task "assets:precompile" do
+  exec("jekyll build")
+end
