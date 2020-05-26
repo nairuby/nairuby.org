@@ -70,7 +70,7 @@ resources, [fork this repo][fork] and send in a pull request.
 [rails-7]: http://guides.rubyonrails.org/index.html
 [rails-8]: http://railsforzombies.org/
 [rails-9]: http://pragprog.com/titles/rails4/agile-web-development-with-rails
-[rails-10]: http://www.amazon.com/s?url=search-alias%3Daps&field-keywords=ruby+on+rails
+[rails-10]: http://www.amazon.com/
 [rails-11]: http://www.jetbrains.com/ruby/
 [rails-12]: http://railscasts.com/
 [rails-13]: https://gorails.com/
