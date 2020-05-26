@@ -13,18 +13,17 @@ resources, [fork this repo][fork] and send in a pull request.
 
 ### Ruby
 
-* [Ruby Core API Documentation][ruby-8]
+* [Ruby Core API Documentation][ruby-6]
 * [Download and install Ruby][ruby-2]
-* [Why's Poignant Guide to Ruby][ruby-3]
-* [The Pickaxe Book][ruby-4]
-* [Try Ruby in Your Browser][ruby-5]
+* [The Pickaxe Book][ruby-3]
+* [Try Ruby in Your Browser][ruby-4]
 * [CodeAcademy Ruby Track][ruby-1] - _Learn to code Ruby interactively_
-* [Ruby Koans][ruby-9]
-* [Ruby Warrior][ruby-10] - based on Ryan Bates’ command line version of the game
-* [Learn To Program][ruby-11] - ground-level tutorial by Chris Pine
-* [Ruby Monk][ruby-12]
-* [Ruby Basic Tutorial][ruby-13]
-* Other [Ruby community resources][ruby-6]
+* [Ruby Koans][ruby-7]
+* [Ruby Warrior][ruby-8] - based on Ryan Bates’ command line version of the game
+* [Learn To Program][ruby-9] - ground-level tutorial by Chris Pine
+* [Ruby Monk][ruby-10]
+* [Ruby Basic Tutorial][ruby-11]
+* Other [Ruby community resources][ruby-5]
 
 ### Ruby Tools
 
@@ -78,16 +77,15 @@ resources, [fork this repo][fork] and send in a pull request.
 
 [ruby-1]: https://www.codecademy.com/learn/learn-ruby
 [ruby-2]: https://www.ruby-lang.org
-[ruby-3]: http://mislav.uniqpath.com/poignant-guide/
-[ruby-4]: http://ruby-doc.com/docs/ProgrammingRuby/
-[ruby-5]: http://tryruby.org/
-[ruby-6]: https://www.ruby-lang.org/en/community/
-[ruby-8]: https://www.ruby-doc.org/core
-[ruby-9]: http://rubykoans.com/
-[ruby-10]: https://www.bloc.io/ruby-warrior/
-[ruby-11]: https://pine.fm/LearnToProgram/
-[ruby-12]: https://rubymonk.com/
-[ruby-13]: https://netguru.co/blog/all-you-need-to-know-to-start-with-ruby
+[ruby-3]: http://ruby-doc.com/docs/ProgrammingRuby/
+[ruby-4]: http://tryruby.org/
+[ruby-5]: https://www.ruby-lang.org/en/community/
+[ruby-6]: https://www.ruby-doc.org/core
+[ruby-7]: http://rubykoans.com/
+[ruby-8]: https://www.bloc.io/ruby-warrior/
+[ruby-9]: https://pine.fm/LearnToProgram/
+[ruby-10]: https://rubymonk.com/
+[ruby-11]: https://netguru.co/blog/all-you-need-to-know-to-start-with-ruby
 
 [ruby-tool-1]: http://rubular.com/
 
