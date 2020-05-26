@@ -61,13 +61,12 @@ If you are you new to the Ruby programming language? Here is a list of resources
 to get you started!
 
 * [Download and install Ruby][5]
-* [Why's Poignant Guide to Ruby][6]
-* [The Pickaxe Book][7]
-* [Try Ruby in Your Browser][8]
-* [CodeAcademy Ruby Track][9]
-* [Link with other community resources][10]
+* [The Pickaxe Book][6]
+* [Try Ruby in Your Browser][7]
+* [CodeAcademy Ruby Track][8]
+* [Link with other community resources][9]
 
-For more resources check out our **[Learning Resources][12]** page.
+For more resources check out our **[Learning Resources][11]** page.
 
 
 ## Community Contributions
@@ -75,10 +74,10 @@ For more resources check out our **[Learning Resources][12]** page.
 We're not merely a user group, but an open source culture incubator churning out
 various software projects and initiaves. Some of the notable ones are:
 
-* [Pesapal Gem][14] by [King'ori Maina][15]
-* [Annotator Store Rails engine][18] by [King'ori Maina][15]
-* [Nairobi Dev School][16] by [Njeri Chelimo Martha][17]
-* [Mpesa Stk Gem][19] by [Mboya Berry][20]
+* [Pesapal Gem][13] by [King'ori Maina][14]
+* [Annotator Store Rails engine][17] by [King'ori Maina][14]
+* [Nairobi Dev School][15] by [Njeri Chelimo Martha][16]
+* [Mpesa Stk Gem][18] by [Mboya Berry][19]
 
 [code-of-conduct]: /about/code-of-conduct/
 [contribute-code]: https://github.com/Nairuby
@@ -94,19 +93,18 @@ various software projects and initiaves. Some of the notable ones are:
 [3]: https://github.com/Nairuby/nairuby.github.io/issues?page=1&state=open
 [4]: https://github.com/Nairuby/nairuby.github.io/issues/new
 [5]: https://www.ruby-lang.org
-[6]: http://mislav.uniqpath.com/poignant-guide/
-[7]: http://ruby-doc.com/docs/ProgrammingRuby/
-[8]: https://try.ruby-lang.org/
-[9]: https://www.codecademy.com/learn/learn-ruby
-[10]: https://www.ruby-lang.org/en/community/
-[11]: http://en.wikipedia.org/wiki/Open_source
-[12]: /learn/
-[13]: https://twitter.com/search?f=realtime&q=%23Nairuby
-[14]: https://github.com/itskingori/pesapal-gem
-[15]: http://kingori.co
-[16]: http://nairobidevschool.org/
-[17]: https://njerichelimo.wordpress.com/
-[18]: https://github.com/itskingori/annotator_store-gem
-[19]: https://github.com/mboya/mpesa_stk
-[20]: https://twitter.com/mboyaberry
+[6]: http://ruby-doc.com/docs/ProgrammingRuby/
+[7]: https://try.ruby-lang.org/
+[8]: https://www.codecademy.com/learn/learn-ruby
+[9]: https://www.ruby-lang.org/en/community/
+[10]: http://en.wikipedia.org/wiki/Open_source
+[11]: /learn/
+[12]: https://twitter.com/search?f=realtime&q=%23Nairuby
+[13]: https://github.com/itskingori/pesapal-gem
+[14]: http://kingori.co
+[15]: http://nairobidevschool.org/
+[16]: https://njerichelimo.wordpress.com/
+[17]: https://github.com/itskingori/annotator_store-gem
+[18]: https://github.com/mboya/mpesa_stk
+[19]: https://twitter.com/mboyaberry
 
