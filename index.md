@@ -82,7 +82,7 @@ various software projects and initiaves. Some of the notable ones are:
 [code-of-conduct]: /about/code-of-conduct/
 [contribute-code]: https://github.com/Nairuby
 [mail-list]: https://groups.google.com/forum/#!forum/nairuby
-[nairobi-kenya-map]: http://goo.gl/AMspr8
+[nairobi-kenya-map]: https://www.openstreetmap.org/#map=11/-1.3039/36.8774
 [presentations]: /presentations/
 [ror]: http://rubyonrails.org/
 [meetup]: https://www.meetup.com/Nairuby/
