@@ -10,10 +10,6 @@ task :test do
   HTMLProofer.check_directory('./_site', alt_ignore: [/.*/]).run
 end
 
-
-
-
-
-
-
-
+task "assets:precompile" do
+  exec("jekyll build")
+end
