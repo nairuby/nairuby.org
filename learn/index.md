@@ -24,6 +24,7 @@ resources, [fork this repo][fork] and send in a pull request.
 * [Ruby Monk][ruby-10]
 * [Ruby Basic Tutorial][ruby-11]
 * [Developing Games With Ruby][ruby-12]
+* [Why’s Poignant Guide to Ruby][ruby-13]
 * Other [Ruby community resources][ruby-5]
 
 ### Ruby Tools
@@ -88,6 +89,7 @@ resources, [fork this repo][fork] and send in a pull request.
 [ruby-10]: https://rubymonk.com/
 [ruby-11]: https://netguru.co/blog/all-you-need-to-know-to-start-with-ruby
 [ruby-12]: https://leanpub.com/developing-games-with-ruby/read
+[ruby-13]: https://poignant.guide/
 
 [ruby-tool-1]: http://rubular.com/
 
