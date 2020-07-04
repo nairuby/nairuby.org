@@ -74,7 +74,7 @@ For more information about Nairuby, visit [nairuby].
 [github-pages]: https://pages.github.com/
 [ror]: http://rubyonrails.org/
 [jekyll]: http://jekyllrb.com/
-[nairobi-kenya-map]: http://goo.gl/AMspr8
+[nairobi-kenya-map]: https://www.openstreetmap.org/#map=11/-1.3039/36.8774
 [nairuby]: http://nairuby.org/
 
 [1]: https://travis-ci.org/nairuby/nairuby.github.io

@@ -61,11 +61,12 @@ If you are you new to the Ruby programming language? Here is a list of resources
 to get you started!
 
 * [Download and install Ruby][5]
-* [Why's Poignant Guide to Ruby][6]
-* [The Pickaxe Book][7]
+* [The Pickaxe Book][6]
+* [Why’s Poignant Guide to Ruby][7]
 * [Try Ruby in Your Browser][8]
 * [CodeAcademy Ruby Track][9]
 * [Link with other community resources][10]
+
 
 For more resources check out our **[Learning Resources][12]** page.
 
@@ -83,7 +84,7 @@ various software projects and initiaves. Some of the notable ones are:
 [code-of-conduct]: /about/code-of-conduct/
 [contribute-code]: https://github.com/Nairuby
 [mail-list]: https://groups.google.com/forum/#!forum/nairuby
-[nairobi-kenya-map]: http://goo.gl/AMspr8
+[nairobi-kenya-map]: https://www.openstreetmap.org/#map=11/-1.3039/36.8774
 [presentations]: /presentations/
 [ror]: http://rubyonrails.org/
 [meetup]: https://www.meetup.com/Nairuby/
@@ -94,8 +95,8 @@ various software projects and initiaves. Some of the notable ones are:
 [3]: https://github.com/Nairuby/nairuby.github.io/issues?page=1&state=open
 [4]: https://github.com/Nairuby/nairuby.github.io/issues/new
 [5]: https://www.ruby-lang.org
-[6]: http://mislav.uniqpath.com/poignant-guide/
-[7]: http://ruby-doc.com/docs/ProgrammingRuby/
+[6]: http://ruby-doc.com/docs/ProgrammingRuby/
+[7]: https://poignant.guide/
 [8]: https://try.ruby-lang.org/
 [9]: https://www.codecademy.com/learn/learn-ruby
 [10]: https://www.ruby-lang.org/en/community/

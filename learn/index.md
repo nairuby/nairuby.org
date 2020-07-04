@@ -23,6 +23,8 @@ resources, [fork this repo][fork] and send in a pull request.
 * [Learn To Program][ruby-9] - ground-level tutorial by Chris Pine
 * [Ruby Monk][ruby-10]
 * [Ruby Basic Tutorial][ruby-11]
+* [Developing Games With Ruby][ruby-12]
+* [Why’s Poignant Guide to Ruby][ruby-13]
 * Other [Ruby community resources][ruby-5]
 
 ### Ruby Tools
@@ -70,7 +72,7 @@ resources, [fork this repo][fork] and send in a pull request.
 [rails-7]: http://guides.rubyonrails.org/index.html
 [rails-8]: http://railsforzombies.org/
 [rails-9]: http://pragprog.com/titles/rails4/agile-web-development-with-rails
-[rails-10]: http://goo.gl/MWIwa
+[rails-10]: http://www.amazon.com/
 [rails-11]: http://www.jetbrains.com/ruby/
 [rails-12]: http://railscasts.com/
 [rails-13]: https://gorails.com/
@@ -86,6 +88,8 @@ resources, [fork this repo][fork] and send in a pull request.
 [ruby-9]: https://pine.fm/LearnToProgram/
 [ruby-10]: https://rubymonk.com/
 [ruby-11]: https://netguru.co/blog/all-you-need-to-know-to-start-with-ruby
+[ruby-12]: https://leanpub.com/developing-games-with-ruby/read
+[ruby-13]: https://poignant.guide/
 
 [ruby-tool-1]: http://rubular.com/
 
