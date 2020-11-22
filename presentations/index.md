@@ -17,7 +17,9 @@ when there's room on the schedule. We aim to announce speakers about one week
 before the monthly meeting.
 
 2. Prepare your presentation. This can be anything from a quick lightning talk
-with whiteboard drawings to an hour-long talk with 200 well-designed slides.
+with whiteboard drawings to an hour-long talk with 200 well-designed slides. 
+Most meetup presentations are about 40 minutes with 10 minutes for questions, but
+shorter and longer talks can be accommodated.
 
 3. Show up and share your knowledge! If you need the projector, be sure to bring
 any adapters you need to connect e.g. VGA, HDMI and DVI connectors especially
