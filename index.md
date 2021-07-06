@@ -7,11 +7,13 @@ permalink: /
 
 Welcome to **Nairuby**, a user group for [Ruby][5] programmers based in
 [Nairobi, Kenya][nairobi-kenya-map]. We welcome all programmers of all levels,
-from beginner to advanced!
+from beginner to advanced! Our aims are to promote:
+- Software development skills
+- Entrepreneurship
+- [Open Source][11] Culture 
 
-As a hacker group we promote the [Open Source][11] Culture and whenever we can,
-we organise meetings to share knowledge, code and our enthusiasm for programming
-in Ruby.
+To do this we organise meetings and workshops to share knowledge, code and our 
+enthusiasm for programming in Ruby.
 
 ## Participate
 
@@ -65,7 +67,8 @@ to get you started!
 * [Why’s Poignant Guide to Ruby][7]
 * [Try Ruby in Your Browser][8]
 * [CodeAcademy Ruby Track][9]
-* [Link with other community resources][10]
+* [The Odin Project][10]
+* [Link with other community resources][11]
 
 
 For more resources check out our **[Learning Resources][12]** page.
@@ -76,10 +79,10 @@ For more resources check out our **[Learning Resources][12]** page.
 We're not merely a user group, but an open source culture incubator churning out
 various software projects and initiaves. Some of the notable ones are:
 
-* [Pesapal Gem][14] by [King'ori Maina][15]
-* [Annotator Store Rails engine][18] by [King'ori Maina][15]
-* [Nairobi Dev School][16] by [Njeri Chelimo Martha][17]
-* [Mpesa Stk Gem][19] by [Mboya Berry][20]
+* [Pesapal Gem][15] by [King'ori Maina][16]
+* [Annotator Store Rails engine][19] by [King'ori Maina][16]
+* [Nairobi Dev School][17] by [Njeri Chelimo Martha][18]
+* [Mpesa Stk Gem][20] by [Mboya Berry][21]
 
 [code-of-conduct]: /about/code-of-conduct/
 [contribute-code]: https://github.com/Nairuby
@@ -99,15 +102,16 @@ various software projects and initiaves. Some of the notable ones are:
 [7]: https://poignant.guide/
 [8]: https://try.ruby-lang.org/
 [9]: https://www.codecademy.com/learn/learn-ruby
-[10]: https://www.ruby-lang.org/en/community/
-[11]: http://en.wikipedia.org/wiki/Open_source
-[12]: /learn/
-[13]: https://twitter.com/search?f=realtime&q=%23Nairuby
-[14]: https://github.com/itskingori/pesapal-gem
-[15]: http://kingori.co
-[16]: http://nairobidevschool.org/
-[17]: https://njerichelimo.wordpress.com/
-[18]: https://github.com/itskingori/annotator_store-gem
-[19]: https://github.com/mboya/mpesa_stk
-[20]: https://twitter.com/mboyaberry
+[10]: https://www.theodinproject.com/
+[11]: https://www.ruby-lang.org/en/community/
+[12]: http://en.wikipedia.org/wiki/Open_source
+[13]: /learn/
+[14]: https://twitter.com/search?f=realtime&q=%23Nairuby
+[15]: https://github.com/itskingori/pesapal-gem
+[16]: http://kingori.co
+[17]: http://nairobidevschool.org/
+[18]: https://njerichelimo.wordpress.com/
+[19]: https://github.com/itskingori/annotator_store-gem
+[20]: https://github.com/mboya/mpesa_stk
+[21]: https://twitter.com/mboyaberry
 
