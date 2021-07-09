@@ -15,6 +15,7 @@ exclude: ['CNAME', 'Gemfile', 'Rakefile', 'README.md', 'vendor']
 
 nairuby:
   github_url: https://github.com/Nairuby
+  gitlab_url: https://gitlab.com/nairuby
   twitter_url: https://twitter.com/NairubyKE
   facebook_url: https://facebook.com/NairubyKE
   google_plus_url: https://plus.google.com/113027199805523831412/posts
