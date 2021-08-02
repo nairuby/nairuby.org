@@ -9,6 +9,14 @@ Many of the events are announced on [Meetup](https://www.meetup.com/Nairuby/). R
 
 Eventbrite is also used for [event ticketing](http://www.eventbrite.com/e/ruby-workshop-tickets-16154746281?aff=ehomefriend).
 
+##African Ruby Mini-Conference 2021
+
+_Thursday, August 12, 2021, 15:00 Central African Time
+
+Virtual event for 2021. This Ruby conference is an opportunity for Ruby developers and non-developers to meet, connect, share ideas and improve their skills.  The community welcomes anyone looking to add Ruby to their toolbox or just wants to give Ruby a try. We've set up a 
+
+[conference page here](http://conference.nairuby.org/)
+
 ##RubyConf KE
 
 RubyConf Kenya is an annual inclusive conference and as such strives to be welcoming and accessible to as many people as possible. The Ruby conference is an opportunity for both Ruby developers and non-developers to meet, connect, share ideas and of course do some hacking. The community welcomes anyone looking to adding Ruby to their toolbox or just want to give Ruby a try.
